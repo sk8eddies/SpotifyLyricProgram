@@ -1,0 +1,2 @@
+class LyricFetcher:
+    pass

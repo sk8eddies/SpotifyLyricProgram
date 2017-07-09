@@ -1,0 +1,2 @@
+class LyricData:
+    pass

@@ -2,6 +2,7 @@ import spotilib
 
 
 class SpotifySongFetcher:
+    pass
 
     # def fetch(self):
     #     self._artist = spotilib.artist()
