@@ -1,2 +1,4 @@
 class LyricFetcher:
-    pass
+
+     def fetch_lyric(self, (artist_name, song_name)):
+         pass
